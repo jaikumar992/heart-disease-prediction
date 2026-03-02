@@ -1,10 +1,5 @@
 # ❤️ Heart Disease Prediction App
 
-<p align="center">
-  <img src="demo.gif" width="800">
-</p>
-
-
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
@@ -12,11 +7,6 @@
 
 A Machine Learning web application that predicts the risk of heart disease based on patient health parameters.
 
----
-
-## 🎥 Application Demo
-
-https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/video_recording.mp4
 ---
 
 ## 🌍 Live Demo
