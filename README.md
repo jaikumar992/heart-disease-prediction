@@ -12,8 +12,7 @@ A Machine Learning web application that predicts the risk of heart disease based
 ## 🌍 Live Demo
 
 👉 **Try the App Here:**  
-https://YOUR-APP-NAME.streamlit.app
-
+https://heart-disease-prediction-hrncnw7cgg4fl79zyeamxm.streamlit.app/
 
 ---
 
@@ -54,5 +53,5 @@ The user enters medical details, and the system:
 
 ## 👨‍💻 Author
 
-Developed by Jai Kumar
-Machine Learning Enthusiast
+- Developed by Jai Kumar
+- Machine Learning Enthusiast
