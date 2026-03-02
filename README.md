@@ -9,6 +9,11 @@ A Machine Learning web application that predicts the risk of heart disease based
 
 ---
 
+## 🎥 Application Demo
+
+https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/video_recording.mp4
+---
+
 ## 🌍 Live Demo
 
 👉 **Try the App Here:**  
